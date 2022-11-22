@@ -25,5 +25,5 @@
 ## L2 Regression Model: 
 - Based on the L2 Regression Model the evaluation matrix was analyzed and the predicted values were very close to the actual values of the given dataset. And hence we can conclude that the given model can be used for determining the demand for bikes based on the selected feature data.
  
-Conclusion: 
-After the analysis we conclude that, this analysis will be helpful for the supplying entities in Seoul city to predict the demand for the rental bikes based on the primary and atmospheric data of the city. The predicted values were highly accurate and so the companies can rely on the model in order to predict the demand for the bikes on a particular date based on temperature, humidity, wind speed, solar radiation, type of day (Holiday/No holiday), hour and month. 
+## Conclusion: 
+_ After the analysis we conclude that, this analysis will be helpful for the supplying entities in Seoul city to predict the demand for the rental bikes based on the primary and atmospheric data of the city. The predicted values were highly accurate and so the companies can rely on the model in order to predict the demand for the bikes on a particular date based on temperature, humidity, wind speed, solar radiation, type of day (Holiday/No holiday), hour and month. 
